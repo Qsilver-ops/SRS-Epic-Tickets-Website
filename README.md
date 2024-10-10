@@ -57,4 +57,17 @@ Key Features:
 - **GitHub** for source control and collaboration
 - **GitHub Actions** for CI/CD
 
+Table of Contents
+
+1. INTRODUCTION	
+2. Tech Stack
+3. Design
+4. API	
+5. VM
+6. Initial Front End
+
+ 
+
+
+
 
